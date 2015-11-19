@@ -25,6 +25,9 @@
     "html5shiv": "~3.7.3",
     "respond": "~1.4.2",
     "components-font-awesome": "~4.4.0",
-    "animate.css": "animate-css#~3.4.0"
+    "animate.css": "animate-css#~3.4.0",
+    "font-mfizz": "~2.0.1",
+    "devicon": "*",
+    "devicons": "~1.8.0"
   }
 }
