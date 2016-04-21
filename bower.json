@@ -21,7 +21,7 @@
     "wow": "wowjs#~1.1.2",
     "jquery": "jquery#~1.11.3",
     "FitText.js": "jquery-fittext.js#~1.2.0",
-    "bootstrap": "~3.3.5",
+    "bootstrap": "~3.3.6",
     "html5shiv": "~3.7.3",
     "respond": "~1.4.2",
     "components-font-awesome": "~4.4.0",
